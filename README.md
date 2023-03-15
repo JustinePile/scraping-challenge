@@ -10,6 +10,6 @@
  ┣ 📂Resources   
  ┃ ┗ 📜mars_data.csv   
  ┣ 📜part_1_mars_news.ipynb   
- ┣ 📜part_2_mars_weather.ipynb
- ┣ 📜screenshot.png  
- ┗ 📜README.md
+ ┣ 📜part_2_mars_weather.ipynb    
+ ┣ 📜screenshot.png   
+ ┗ 📜README.md 
